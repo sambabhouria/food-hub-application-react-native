@@ -32,3 +32,11 @@
 ![sreen-11: ](./11.png)
 ![sreen-12: ](./12.png)
 ![sreen-13: ](./13.png)
+
+# Bonus:
+
+1. To view list of devices :
+   xcrun simctl list devices
+
+2. To launch specific device
+   npx react-native run-ios --udid=84D897EB-C865-4A00-A479-3CA47657A342
